@@ -4,7 +4,7 @@
   This interpreter is built in the C programming language. It reads Monty bytecode files of any extensions, preferably `.m`, and it interprets the opcodes contained. it can be run as either a stack (LIFO) or queue (FIFO). 
 ## Requirements
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/20.04/) Operating System
-* [GCC 4.8.4](https://gcc.gnu.org/gcc-4.8/) Compiler
+* [GCC 11.2](https://gcc.gnu.org/gcc-11/) Compiler
 * Installation of Git (`sudo apt-get install git`)
 * Cloning of repo (`git clone https://github.com/Annette-Munyiri/monty.git`)
 ## Compiling
